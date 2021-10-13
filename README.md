@@ -15,4 +15,4 @@ scipy: https://www.scipy.org/
 statsmodels: https://www.statsmodels.org/stable/index.html
 
 # Usage
-python3 RNAediting_Pipeline -i your_bam_file -g your_human_genome_fa_file -s your_vcf_file_for_known_SNPs
+python3 RNAediting_Pipeline.py -i your_bam_file -g your_human_genome_fa_file -s your_vcf_file_for_known_SNPs
